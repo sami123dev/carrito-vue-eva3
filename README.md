@@ -1,20 +1,16 @@
-# Carrito Vue 3 + Tailwind
+# Mockup de Carrito Vue con boostrap
 
-Carrito de compras con Vue 3, TailwindCSS y Vue Router.
+Carrito de compras hecho en **Vue 3 + Vite + Bootstrap 5**.
 
-## Instalación
+## Características
+- Lista de productos con imágenes y stock.
+- Agregar, aumentar/disminuir y eliminar productos del carrito.
+- Validación de stock.
+- Checkout con resumen y total.
+- Notificaciones con Toasts de Bootstrap.
+
+
+## ▶️ Ejecución
 ```bash
 npm install
-```
-
-## Desarrollo
-```bash
 npm run dev
-```
-Abrir en navegador: http://localhost:5173/
-
-## Build producción
-```bash
-npm run build
-npm run preview
-```
